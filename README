@@ -1,0 +1,1 @@
+This Cryptor method includes standart AES(Rijndael) - this is most stronger method for now days. It is using standart 'openssl' library to encrypt and decrypt info.
